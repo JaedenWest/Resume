@@ -8,21 +8,17 @@
 :root{
     --primary-color: #7ca5ca;
     --secondary-color: #ffffff;
-    --font-family: 'Inter', sans-serif;
+    --font-family: Inter, sans-serif;
 }
 
 html{
     font-size: 10px;
 
 }
-body{
-    font-family:Inter, sans-serfif;
-    
-}
 
 
 .returnLink{
-    font-size: 10rem;
+    font-size: 2rem;
     text-align: left;
     color: lightblue;
 }
