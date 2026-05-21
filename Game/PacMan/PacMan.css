@@ -7,3 +7,9 @@ body{
     background-color: black;
 }
 
+.returnPacMan{
+    font-size: 2rem;
+    text-align: left;
+    color: lightblue;
+}
+
